@@ -7,3 +7,6 @@ Login with user detailed in "user_details.csv"
 - display posts
 
 Implemented using linked lists and stacks
+
+Completed: 2024/12/06
+Uploaded: 2025/03/20
